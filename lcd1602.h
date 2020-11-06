@@ -2,7 +2,9 @@
  * _1602.h
  *
  * Created: 06/10/2020 21:49:15
- *  Author: Alexey  Ivanov
+ *   Author: Alexey Ivanov
+ *  Driver for LCD with HD44780 controller
+ *  v1.0
  * 
  */ 
 
