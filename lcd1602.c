@@ -3,6 +3,8 @@
  *
  * Created: 06/10/2020 21:48:58
  *  Author: Alexey Ivanov
+ * Driver for LCD with HD44780 controller
+ * v1.0
  */ 
 
 #include "lcd1602.h"
